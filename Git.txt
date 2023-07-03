@@ -1,8 +1,0 @@
-git init
-
-git add * --- to add all the files to local repo
-
-git config --global user.email "oladimeji.oladepo@gmail.com"   -- to log in online repo
-
-git commit -m "Commit message"  ---- Now the file is committed to the HEAD, but not in your remote repository yet.
-
